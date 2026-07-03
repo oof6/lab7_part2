@@ -1,5 +1,3 @@
-what your server does, the MCP Inspector screenshot proving a tool call, which vulnerability class you planted and why it's a realistic developer mistake, and the one-line root cause + fix. 
-
 ### What the Server Does? 
 
 The server has two functions/tools it can call: 
